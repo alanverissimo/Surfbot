@@ -442,11 +442,12 @@ html {
 
 
 .quote {
-    background-image: url(/assets/foto-mar.png);
+    background: url(../assets/foto-mar.png) center center no-repeat;
     background-size: cover;
     padding: 200px;
     text-align: center;
 }
+
 
 .quote>p {
     font-family: 'Alice', serif;
